@@ -6,3 +6,6 @@ In this guide, I will show you how to create a repair task and configure the var
 
 ### Repair Task
 
+1. Open the management console.
+
+![Open Management Console](https://github.com/deuscode/Documentation/blob/master/src/Documentation/LanDesk/images/Add%20Device%20to%20Scheduled%20Task.gif)
