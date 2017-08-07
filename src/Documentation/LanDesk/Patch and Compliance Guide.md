@@ -31,8 +31,8 @@ In this guide, I will show you how to create a repair task and configure the var
 
 
 5. Repair Settings:
-a. Under `Add targets`, select `Don't add targets at this time` because you will be able to do this later. It is always better to have that flexibility at the end. If you already have a query of devices, you may choose that instead.
-b. You have an option of `Ignore maintenance window if specified`. This option ignores any of your organization's maintenance window (It is a window of time to install vulnerability patches. Any patch and compliance task that runs outside of this window will not run.). When you check this option, all patches will run immediately or during a specified time.
+  * Under `Add targets`, select `Don't add targets at this time` because you will be able to do this later. It is always better to have that flexibility at the end. If you already have a query of devices, you may choose that instead.
+  * You have an option of `Ignore maintenance window if specified`. This option ignores any of your organization's maintenance window (It is a window of time to install vulnerability patches. Any patch and compliance task that runs outside of this window will not run.). When you check this option, all patches will run immediately or during a specified time.
 
 ![Ignore Maintenance Window](https://github.com/deuscode/Documentation/blob/master/src/Documentation/LanDesk/images/Repair%20-%20Ignore%20Maintenance%20Option.gif)
 
