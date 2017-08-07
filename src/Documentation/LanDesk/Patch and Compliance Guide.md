@@ -46,6 +46,35 @@ Make sure to check your _types, scopes, and filters_.
 ![Select task type](https://github.com/deuscode/Documentation/blob/master/src/Documentation/LanDesk/images/Repair%20-%20Task%20Type.gif)
 
 
-7. You can leave the schedule unscheduled, start immediately, or start at a later date/time. Please be aware, if you leave the task unscheduled, you will need to run it manually or else it will be indefinitely idle.
+7. You can leave the schedule task unscheduled, start immediately, or start at a later date/time. Please be aware, if you leave the task unscheduled, you will need to run it manually or else it will be indefinitely idle.
 
 ![Schedule Task](https://github.com/deuscode/Documentation/blob/master/src/Documentation/LanDesk/images/Repair%20-%20Schedule%20task.gif)
+
+
+8. Click on save and you should be directed straight to the **_Scheduled Task_** section.
+
+![Scheduled Task Section](https://github.com/deuscode/Documentation/blob/master/src/Documentation/LanDesk/images/Repair%20-%20Save.gif)
+
+9. You can rename the scheduled task to fit your requirements.
+
+![Rename task](https://github.com/deuscode/Documentation/blob/master/src/Documentation/LanDesk/images/Scheduled%20Task%20-%20Rename.gif)
+
+10. If you did not add targets initially, you may drag and drop clients into the scheduled task. These clients will then receive the policy and download any patches and install them.
+
+![Drag clients to task](https://github.com/deuscode/Documentation/blob/master/src/Documentation/LanDesk/images/Scheduled%20Task%20-%20Drag%20Clients.gif)
+
+
+11. If you ignored the maintenance window option, you may start the scheduled task immediately.
+
+![Start the scheduled task immediately](https://github.com/deuscode/Documentation/blob/master/src/Documentation/LanDesk/images/Scheduled%20Task%20-%20Start%20Now.gif)
+
+
+## Monitoring and Troubleshooting
+
+While the task runs, you can monitor the progress through the scheduled task. You may need to refresh the task by pressing the “Refresh” button in the scheduled tasks window.
+
+![Monitor](https://github.com/deuscode/Documentation/blob/master/src/Documentation/LanDesk/images/Scheduled%20Task%20-%20Refresh%20Monitor.gif)
+
+To check patch installation failure reason or to see what patches have been installed, go to the device window at the top, look for the machine in question, right-click on the machine and select **_Security and Patch Information_**.
+
+![Troubleshooting](https://github.com/deuscode/Documentation/blob/master/src/Documentation/LanDesk/images/Scheduled%20Task%20-%20Patch%20Troubleshooting.gif)
