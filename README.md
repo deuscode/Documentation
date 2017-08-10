@@ -7,13 +7,13 @@ This is a repository for all documentation that I have created during my persona
 In this repository, you will find different folders to different systems, software, and code guides. They are all named accordingly.
 
 ```
-src
+<src>
 |
----documents
+---<documentation>
    |
-   ---<name of system/code/software guide>
+   ---<Name of Software/Code>
       |
-      ---nameofguide.READEME
+      ---nameofguide.md
 ```
 
 ## Contact
